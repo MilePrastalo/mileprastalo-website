@@ -11,6 +11,6 @@
   }
 
   .example-header-image {
-    background-image: url('https://github.com/MilePrastalo/mileprastalo-website/blob/main/assets/pillTrayIcon.png');
+    background-image: url('https://raw.githubusercontent.com/MilePrastalo/mileprastalo-website/main/assets/pillTrayIcon.png');
     background-size: cover;
   }
